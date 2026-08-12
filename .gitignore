@@ -1,0 +1,17 @@
+# ROS2 / colcon build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor/OS cruft
+.vscode/
+*.swp
+.DS_Store
+
+# ROS bag files (usually too large for git)
+*.bag
+*.db3
