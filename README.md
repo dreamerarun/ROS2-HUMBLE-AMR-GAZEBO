@@ -117,4 +117,4 @@ mismatches.
 
 ## License
 
-MIT (or your choice — update this section)
+MIT 
